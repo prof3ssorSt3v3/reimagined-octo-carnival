@@ -1,0 +1,13 @@
+{
+  "categories": ["science fiction", "fantasy", "romance", "non-fiction", "historical fiction", "programming", "classic"],
+  "books": [
+    { "id": "cc196ef3-431f-4238-8aea-8a94e73229a4", "category": "science fiction", "title": "the 3 body problem", "author": "cixin liu" },
+    { "id": "e2fd5989-6908-45c5-91db-d6e561fc8b8b", "category": "fantasy", "title": "the hobbit", "author": "j.r.r. tolkien" },
+    { "id": "ee69e09a-61f0-4c19-bbbc-826399f678c4", "category": "programming", "title": "web developers practical guide to flutter", "author": "steve griffith" },
+    { "id": "dbc27431-33b4-49fb-82a4-1ab9bea0f26a", "category": "classic", "title": "moby dick", "author": "herman melville" },
+    { "id": "ef78671c-d518-468c-bfdf-4786c3a04a20", "category": "non-fiction", "title": "how the world really works", "author": "vaclav smil" },
+    { "id": "abc8671c-d518-468c-bfdf-4786c3a055aa", "category": "fantasy", "title": "sword of shannara", "author": "terry brooks" },
+    { "id": "fg77671c-d518-468c-bfdf-4786c3a091c3", "category": "programming", "title": "developing large web applications", "author": "kyle loudon" },
+    { "id": "bd22671c-d518-468c-bfdf-4786c3a06f44", "category": "classic", "title": "julius caesar", "author": "william shakespeare" }
+  ]
+}
